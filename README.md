@@ -2,5 +2,4 @@
 
 Télécharge la dernière version : https://github.com/Dusko01/kodus-releases/releases/latest
 
-À l'installation, Windows peut afficher « Windows a protégé votre ordinateur » :
-clique sur « Informations complémentaires » puis « Exécuter quand même ».
+Wiki et assistant d'installateur : https://sites.google.com/view/kodus-launcher
